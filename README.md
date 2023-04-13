@@ -1,4 +1,4 @@
-# Portfolio
+# Portafolio
 
 Proyecto realizado con React y Sanity CMS:
 [WEB](https://portafolio-acirdev.netlify.app/)
@@ -8,7 +8,9 @@ Proyecto realizado con React y Sanity CMS:
 - Node.js 18.14.0 o superior
 - npm 9.3.1 o superior
 
-## Installation
+## Instalación
+
+Dentro de las carpetas Backend y Frontend ejecutar en la consola el siguiente comando
 
 Modulos de Node.js
 
@@ -16,7 +18,9 @@ Modulos de Node.js
 npm install
 ```
 
-## Lancement
+## Lanzar
+
+Dentro de las carpetas Backend y Frontend ejecutar en la consola el siguiente comando primero ejecutar el Backend
 
 ```bash
 npm run dev
