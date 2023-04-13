@@ -1,27 +1,46 @@
-# Portafolio
+# _Mi Portafolio Web_
 
-Proyecto realizado con React y Sanity CMS:
-[WEB](https://portafolio-acirdev.netlify.app/)
+<section style="font-size: 1.1rem; font-family: System-ui, Arial, sans-serif; line-height: 2; text-align: justify">
 
-## Requisitos
+Este es mi portafolio web creado con Sanity y ReactJS. En él puedes encontrar información sobre mí, mis habilidades y proyectos que he realizado. También puedes contactarme para colaboraciones o cualquier otra pregunta que puedas tener.
 
-- Node.js 18.14.0 o superior
-- npm 9.3.1 o superior
+## **Tecnologías utilizadas**
 
-## Instalación
+- Sanity
+- ReactJS
+- CSS
 
-Dentro de las carpetas Backend y Frontend ejecutar en la consola el siguiente comando
+## **Cómo ver mi portafolio**
 
-Modulos de Node.js
+Para ver mi portafolio, debes seguir estos pasos:
 
-```bash
-npm install
-```
-
-## Lanzar
-
-Dentro de las carpetas Backend y Frontend ejecutar en la consola el siguiente comando primero ejecutar el Backend
+1. Clona este repositorio:
 
 ```bash
-npm run dev
+git clone https://github.com/AcirDeveloper/Portfolio
 ```
+
+2. Instala las dependencias:
+
+```bash
+   npm install
+```
+
+3. Inicia la aplicación:
+
+```bash
+   npm run dev
+```
+
+4. Accede a la aplicación en tu navegador web en _http://localhost:5173_.
+
+## **Cómo contactarme**
+
+Si deseas contactarme para colaboraciones o cualquier otra pregunta que puedas tener, puedes enviarme un correo electrónico a *acirdeveloper@gmail.com*.
+<br/><br/>
+
+# **Licencia**
+
+Este proyecto está bajo la Licencia MIT.
+
+<section/>
