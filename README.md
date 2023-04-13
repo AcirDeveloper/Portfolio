@@ -5,8 +5,8 @@ Proyecto realizado con React y Sanity CMS:
 
 ## Requisitos
 
--   Node.js 18.0.1 o superior
--   npm 9.3.1 o superior
+- Node.js 18.14.0 o superior
+- npm 9.3.1 o superior
 
 ## Installation
 
